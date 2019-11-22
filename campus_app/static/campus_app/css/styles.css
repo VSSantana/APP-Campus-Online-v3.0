@@ -409,3 +409,7 @@ p {
 .launcher {
   background-color: #6c0318 !important;
 }
+
+.conversation-container .client {
+  background-color: #6c0318 !important; 
+}
